@@ -55,9 +55,9 @@ Bom, agora a equipe deverá elaborar uma linha do tempo da história da computa�
 
 A linha do tempo será um infográfico, utilizando o material coletado desde a aula passada. Destaque a data, indique o personagem, comente sobre o fato ou contribuição, insira uma imagem... Coloque ao menos 15 fatos em sua linha, envolvendo todas as categorias solicitadas.  
 
-Softwares sugeridos para elaboração do infográfico são [https://www.easel.ly](https://www.easel.ly "https://www.easel.ly") e [https://www.canva.com](https://www.canva.com "https://www.canva.com"), mas se vocês tiverem familiaridade com outro software, podem usar. Após construído, gere uma imagem ou um pdf de sua linha do tempo e poste no fórum [InfoGráfico](https://ava3.furb.br/mod/forum/view.php?id=513741 "InfoGráfico") no AVA3. Um único integrante precisa fazer a postagem. Também lembrem de compartilhar o acesso ao infográfico com o professor (dalton@furb.br).  
+Softwares sugeridos para elaboração do infográfico são [https://www.easel.ly](https://www.easel.ly "https://www.easel.ly") e [https://www.canva.com](https://www.canva.com "https://www.canva.com"), mas se vocês tiverem familiaridade com outro software, podem usar. Após construído, gere uma imagem ou um pdf de sua linha do tempo e poste no fórum [InfoGráfico](https://ava3.furb.br/mod/forum/view.php?id=513741 "InfoGráfico") no AVA3. Um único integrante precisa fazer a postagem. Também lembrem de compartilhar o acesso ao infográfico com o professor (jcgross@furb.br).  
 
-A data limite para postagem é 09/Setembro/2021.  
+A data limite para postagem é 31/março/2024.  
 
 Esta é uma atividade de avaliação. Portanto, lembre-se de postar também os nomes dos integrantes da equipe e colocar os nomes na imagem do infográfico.  
 
@@ -65,18 +65,18 @@ Esta avaliação será completada por outra atividade que realizaremos na próxi
 
 <!-- 
 Unidade 2: atividade
-    Segue o link do enunciado da atividade: https://github.com/dalton-reis/disciplinaICNot/tree/main/Unidade2#atividade
+    Segue o link do enunciado da atividade: https://github.com/jcgross/IC_Jan/tree/main/Unidade2#atividade
 
 O que deve ser feito até a próxima aula:
  - vocês criarem a equipe, compartilhar o documento entre os integrantes da equipe e com o professor;
  - dividirem qual fato histórico (dos 17 fatos) fica para qual aluno;
  - buscarem material sobre o seu fato escolhido.
 
-E na próxima aula (sexta quem vem), faremos:
+E na próxima aula, faremos:
  - das 20:20~21:10 para vocês mostrarem para os integrantes da equipe o material pesquisado, e organizarem no documento;
  - das 21:10~22:00  cada equipe começa a montar o seu infográfico do material pesquisado.  
 
-Bom final de semana.
+Bom final de semana e boa páscoa!
 -->
 
 ## Aula04
