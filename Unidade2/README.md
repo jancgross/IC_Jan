@@ -34,7 +34,7 @@ Mesmo sabendo que o prof. Miguel mostrou um pouco da história da computação m
 
 Agora, em trios (3 alunos), pesquisem fatos da história da computação.  
 **Atenção** Então peço que organizem sua **equipe**.  
-Criem um arquivo no Word (colaborativo) compartilhado entre os integrantes da equipe, e acrescentem o professor (dalton@furb.br) junto neste documento. Assim o professor pode ir acompanhando o que vocês estão produzindo (lembrem que se tem um histórico do que cada integrante fez neste documento).  
+Criem um arquivo no Word (colaborativo) compartilhado entre os integrantes da equipe, e acrescentem o professor (jcgross@furb.br) junto neste documento. Assim o professor pode ir acompanhando o que vocês estão produzindo (lembrem que se tem um histórico do que cada integrante fez neste documento).  
 No inicio deste arquivo coloquem os nomes dos integrantes da equipe. E usem este documento para registrar o material coletado.  Lembrem, este documento nós usaremos em próximas atividades.  
 
 [x] Assim o professor vai criar um canal para cada equipe dentro da nossa disciplina no MS Teams.  
