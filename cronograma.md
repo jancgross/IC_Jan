@@ -1,7 +1,7 @@
-# Cronograma: IC (2023-2) - noturno
+# Cronograma: IC (2024-1) - noturno
 
-Local: S-415  
-Dia da semana: quintas (20:20\~22:00)  
+Local: S-309 / S-214 
+Dia da semana: segundas (18:30\~20:10) / quintas (20:20\~22:00)  
 
 ## Cronograma Completo
 
@@ -9,7 +9,7 @@ Dia da semana: quintas (20:20\~22:00)
 
 ## Unidade1 - O que é Ciência da Computação
 
-### Aula01 03/08/23
+### Aula01 26/02/24 - 29/02/24
 
 - [x] Apresentação dos coordenadores dos cursos (BCC e SIS).  
 - [x] Apresentação da diretora do Centro (CCEN).  
@@ -17,7 +17,7 @@ Dia da semana: quintas (20:20\~22:00)
 - [x] Apresentação do plano de ensino.  
 - [x] Mostrar portal acadêmico, curso no site da FURB  e biblioteca (<http://bu.furb.br/>)  
 
-### Aula02 10/08/23
+### Aula02 04/03/24 - 07/03/24
 
 - [x] Apresentação da turma <!-- Pandêmia ... (ligar câmera HD do PC para mostrar o aluno na sala). -->
     <!-- Senão tiver câmera (pode usar celular) -->
@@ -25,7 +25,7 @@ Dia da semana: quintas (20:20\~22:00)
     Nome, cidade, algum hobbit pessoal, se já trabalha com computação ...
 - [x] Slides_Unidade1  
 
-### Aula03 17/08/23
+### Aula03 11/03/24 - 14/03/24
 
 - [x] Apresentação da turma (para os que não fizeram na aula anterior).  
 - [x] Slides_Unidade1  
@@ -34,23 +34,19 @@ Dia da semana: quintas (20:20\~22:00)
 
 ## Unidade 2 - História da Computação e do Computador
 
-### Aula04 24/08/23
+### Aula04 18/03/24 - 21/03/24
 
 - [x] Definir equipes 6 alunos.  
 - Unidade 2: história da computação e do computador.  
 - Divisão dos grupos.  
 - Desenvolvimento do infográfico da linha do tempo da computação (em equipe, atividade avaliativa).  
 
-### Aula05 31/08/23
+### Aula05 25/03/24 - 04/04/24
 
 - Unidade 2: criação de um infográfico coletivo (toda a sala) e apresentação  de um fato histórico por aluno.
 - Apresentação do infográfico pela Equipe, e oportunizando para discutir sobre o assunto.  
 
-### 07/09/23
-
-- Feriado Independência  
-
-### Aula06 14/09/23
+### Aula06 01/04/24 - 11/04/24
 
 - Atividade para assistir os vídeos históricos.  
 
@@ -58,43 +54,44 @@ Dia da semana: quintas (20:20\~22:00)
 
 ## Unidade 3 - Mercado de trabalho
 
-### Aula07 21/09/23
+### Aula07 08/04/24 - 18/04/24
 
 - Mercado de trabalho.  
 - Atividade em equipe para análise de uma pesquisa da StackOverflow sobre desenvolvedores ao redor do mundo em 2020.  
 
-### Aula08 28/09/23
+### Aula08 15/04/24 - 25/04/24
 
 - Interação FURB.  
 - Mercado de trabalho.  
-- Conversa sobre mercado de trabalho (cotidiano e carreira) com Fabio Jascone, Gerente de Projeto na empresa Philips.
+- Conversa sobre mercado de trabalho (cotidiano e carreira) com profissionais da área de desenvolvimento e qualidade de grandes empresas de Blumenau e região.
 
 -----------
 
 ## Unidade4 - Sistemas Operacionais
 
-### Aula09 05/10/23
+### Aula09 22/04/24 - 09/05/2024
 
-- Discussão sobre dúvidas da Palestra Jascone.  
+- Discussão sobre dúvidas das palestras dos profissionais da área
 - Atividade de preparação - fórum de perguntas sobre SO em equipes.  
 
-### 12/10/23
 
-- Feriado NS Aparecida  
+### SEMANA DE CIÊNCIAS E SISTEMAS 29/04/24 - 02/05/24
+  
 
-### Aula10 19/10/23
+### Aula10 06/05/24 - 16/05/24
 
 - Slides até Evolução dos Sistemas Operacionais (até gerência de memória).  
 
-### Aula11 26/10/23
+
+### Aula11 13/05/24 - 23/05/24
 
 - Finalização dos slides da Unidade 4 - Sistemas operacionais (finalização).  
 
-### 02/11/23
 
-- Feriado Finados  
+### 30/05/24 - Feriado Corpus Christi 
 
-### Aula12 09/11/23
+
+### Aula12 20/05/24 - 06/06/24
 
 - Avaliação das unidades 3 e 4: mapa mental e questionário.  
   - Desenvolvimento em duplas de um mapa mental sobre Sistemas Operacionais (avaliação).  
@@ -104,16 +101,17 @@ Dia da semana: quintas (20:20\~22:00)
 
 ## Unidade5 - Linguagens de programação
 
-### Aula13 16/11/23
+### Aula13 27/05/24 - 13/06/24
 
-- Linguagens de Programação (até paradigmas de desenvolvimento).  
+- Linguagens de Programação (até paradigmas de desenvolvimento).
+- 
 
-### Aula14 23/11/23
+### Aula14 03/06/24 - 20/06/24
 
 - Linguagens de Programação.  
 - Definição do seminário sobre linguagens de programação (avaliação).  
 
-### Aula15 30/11/23
+### Aula15 10/06/24 - 27/06/24
 
 - Avaliação: questionário e Hello World.  
 - Seminários sobre linguagens de programação: apresentação pelas duplas (10 linguagens).  
@@ -122,7 +120,7 @@ Dia da semana: quintas (20:20\~22:00)
 
 ## Unidade6 - Sustentabilidade
 
-### Aula16 30/11/23
+### Aula16 17/06/24 - 04/07/24
 
 - Sustentabilidade: ética. Dilemas éticos na sociedade.  
 - Fechamento da disciplina.  
