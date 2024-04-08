@@ -57,7 +57,7 @@ Dia da semana: segundas (18:30\~20:10) / quintas (20:20\~22:00)
 ### Aula07 08/04/24 - 18/04/24
 
 - Mercado de trabalho.  
-- Atividade em equipe para análise de uma pesquisa da StackOverflow sobre desenvolvedores ao redor do mundo em 2020.  
+- Atividade em equipe para análise de uma pesquisa da StackOverflow sobre desenvolvedores ao redor do mundo em 2023.  
 
 ### Aula08 15/04/24 - 25/04/24
 
