@@ -52,25 +52,22 @@ Boa atividade. E lembrem, discutam as respostas com os seus colegas de equipe �
 
 ## Aula06
 
-### Palestra Fabio Jascone
+### Palestra Christian Gross, Pedro Braga e Wagner André
 
 <!--
-No dia 08/abril teremos uma conversa com o Gerente de Pesquisa e Desenvolvimento da Philips, Fábio Jascone. Ele abordará aspectos do cotidiano de uma equipe de desenvolvimento de software em uma empresa de grande porte. Além de muitas dicas para o desenvolvimento da carreira em TI. 
+No dia 15/abril teremos uma conversa com 3 grandes profissionais da área de TI Christian (Philips), Pedro (Governança Brasil) e Wagner André (Benner). Eles abordarão aspectos do cotidiano de uma equipe de desenvolvimento de software em uma empresa de grande porte, além de muitas dicas para o desenvolvimento da carreira em TI baseado em suas próprias experiências pessoais. 
 -->
 
-Bom, vamos continuar olhando como está o Mercado de trabalho na área da Computação. Então convido a todos a primeiro olharem um pouco sobre o nosso palestrante, Fabio Jascone, vitando os links abaixo:
+Bom, vamos continuar olhando como está o Mercado de trabalho na área da Computação. Então convido a todos a primeiro olharem um pouco sobre nossos palestrantes, visitando os links abaixo:
 
-- [Fabio Jascone: linkedIn](<https://br.linkedin.com/in/fabiojascone/en> "Fabio Jascone: linkedIn")  
-- [Fabio Jascone: FURB/DSC monografia](<https://www.furb.br/dsc/arquivos/tccs/monografias/2003-2fabioltjasconevf.pdf> "Fabio Jascone: FURB/DSC monografia")  
-
-E agora assista a sua palestra como gerente de projeto na empresa Philips:
-
-- [Fabio Jascone: Palestra [1:31:01]](<https://furb-my.sharepoint.com/:v:/g/personal/dalton_furb_br/EePEEhMq5StGoyaRffdnCZkBfDEBsIUdVR9evK7mJlcqUA?e=cS8OfW> "Fabio Jascone: Palestra")  
+- [Christian Gross: linkedIn](<https://br.linkedin.com/in/christian-meinecke-gross-5ab41268/> "Christian Gross: linkedIn")  
+- [Pedro Braga: linkedIn](<https://br.linkedin.com/in/pedro-braga-1782435b/> "Pedro Braga: linkedIn")  
+- [Wagner Andre: linkedIn](<https://br.linkedin.com/in/wagner-andr%C3%A9-dos-santos-a645754b/> "Wagner Andre: linkedIn")  
 
 #### Atividade Palestra
 
-Após ter assistido a palestra que tal trocar algumas ideias!  
-Então peço que participe do fórum disponível mais abaixo para fazer um comentário de algum momento da palestra que você mais gostou ou que possa vir a contribuir na sua carreira profissional. E também mencione um dos possíveis cargos da área da computação na empresa que foi comentado na palestra. Comente o que o Jascone disse sobre o papel da Universidade na sua formação profissional. E cite algumas dicas deixadas por ele para melhorar o seu portfólio profissional.  
+Após ter assistido as palestras, que tal trocar algumas ideias!  
+Então peço que participe do fórum disponível mais abaixo para fazer um comentário de algum momento das palestras que você mais gostou ou que possa vir a contribuir na sua carreira profissional. E também mencione um dos possíveis cargos da área da computação em uma das empresas que foram comentadas nas palestras. Comente o que o Christian, o Pedro ou o Wagner disseram sobre o papel da Universidade na sua formação profissional. E cite algumas dicas deixadas por eles para melhorar o seu portfólio profissional.  
 
 - [Comentários sobre a Palestra](<https://ava3.furb.br/mod/assign/view.php?id=862089> "Comentários sobre a Palestra")  
 
