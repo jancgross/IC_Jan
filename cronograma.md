@@ -87,10 +87,6 @@ Dia da semana: segundas (18:30\~20:10) / quintas (20:20\~22:00)
 
 - Finalização dos slides da Unidade 4 - Sistemas operacionais (finalização).  
 
-
-### 30/05/24 - Feriado Corpus Christi 
-
-
 ### Aula12 20/05/24 - 06/06/24
 
 - Avaliação das unidades 3 e 4: mapa mental e questionário.  
@@ -104,7 +100,10 @@ Dia da semana: segundas (18:30\~20:10) / quintas (20:20\~22:00)
 ### Aula13 27/05/24 - 13/06/24
 
 - Linguagens de Programação (até paradigmas de desenvolvimento).
-- 
+ 
+
+### 30/05/24 - Feriado Corpus Christi 
+
 
 ### Aula14 03/06/24 - 20/06/24
 
